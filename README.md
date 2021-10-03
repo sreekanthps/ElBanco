@@ -1,7 +1,7 @@
-# BitBucketList
+# ElBanco
 
 
-ElBanco is iOS mobile app designed for Banking application. The application is implemented with MVVM framework [VIPER](https://betterprogramming.pub/mvvm-in-ios-from-net-perspective-580eb7f4f129) as base architecture
+ElBanco is an Banking iOS mobile app designed for fund transfer. The application is implemented with MVVM framework [MVVM](https://betterprogramming.pub/mvvm-in-ios-from-net-perspective-580eb7f4f129) as base architecture
 
 #  Features!
 
@@ -16,6 +16,12 @@ ElBanco uses a number of open source projects to work properly:
 
 * [Xcode](https://developer.apple.com/xcode/) - IDE to Develop iOS App
 * [SubLime Text Editor](https://www.sublimetext.com/) - Sophisticated text based editor
+
+### Screenshots
+![Landing Page](./img/Splash.png?raw=true "1. Landing Page")
+![Login](./img/Login.png.png?raw=true "2. Login")
+![Dashboard](./img/Dashboard.png?raw=true "3. Dashboard")
+![Transfer Page](./img/Transfer.png?raw=true "4. Transfer Page")
 
 ### Installation
 
