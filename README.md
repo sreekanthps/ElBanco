@@ -17,11 +17,6 @@ ElBanco uses a number of open source projects to work properly:
 * [Xcode](https://developer.apple.com/xcode/) - IDE to Develop iOS App
 * [SubLime Text Editor](https://www.sublimetext.com/) - Sophisticated text based editor
 
-### Screenshots
-![Landing Page](./img/Splash.png?raw=true = 300x150)
-![Login](./img/Login.png.png?raw=true "2. Login")
-![Dashboard](./img/Dashboard.png?raw=true "3. Dashboard")
-![Transfer Page](./img/Transfer.png?raw=true "4. Transfer Page")
 
 ### Installation
 
