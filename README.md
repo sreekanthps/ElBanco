@@ -6,7 +6,7 @@ ElBanco is an Banking iOS mobile app designed for fund transfer. The application
 #  Features!
 
   - Login page with User, Password request
-  - Dashboard displaying Accoyunt Balance and Transaction history
+  - Dashboard displaying Account Balance and Transaction history
   - Transfer page where user can do fund transfer
 
 
